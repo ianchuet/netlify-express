@@ -58,7 +58,7 @@ router.get('/', cors(), (req, res) => {
   res.end();
 });
 
-router.post(/.*/, cors(), (req, res) => {
+router.post('/', cors(), (req, res) => {
   res.redirect("https://quest-mock-api.requestcatcher.com/test");
 });
 
