@@ -1,0 +1,48 @@
+{
+  "data": {
+    "attributes": {
+      "id": 1,
+      "type": "questions",  
+      "title": "Qstream Communication Templates",
+      "content": "<p>The image is an example of one of the communication templates we provide to our clients in an effort to save them time and effort.</p><p>What is the name of the template?</p>",
+      "question_type": "single_correct",
+      "max_selected_choices": 1,
+      "choices": [
+        {
+          "id": 1,
+          "type": "choices",
+          "content": "Announcement and FAQ\n"
+        },
+        {
+          "id": 2,
+          "type": "choices",
+          "content": "Welcome Email\n"
+        },
+        {
+          "id": 3,
+          "type": "choices",
+          "content": "Final Leaderboard Results\n"
+        },
+        {
+          "id": 3,
+          "type": "choices",
+          "content": "Competition Flash\n"
+        },
+        {
+          "id": 4,
+          "type": "choices",
+          "content": "Pre-Close Reminder\n"
+        }
+      ]
+    }
+  },
+  "relationships": {
+    "qstream": {
+      "name": "The 3Cs & Best Practice Challenge"
+    }
+  },
+  "meta": {
+    "remaining_pending_questions": 2,
+    "upcoming_question_date": "2019-08-12"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "data": {
+    "attributes": {
+      "id": 0,
+      "type": "questions",
+      "qstream_name": "The 3Cs & Best Practice Challenge",
+      "title": "Choose the correct Qstream to run",
+      "content": "<p>There are a few reasons why a 15-question Classic Qstream is the best recommendation in this case but the most important reason is that it aligns well with the client's main objectives which are:</p><ul><li>Reinforcement</li><li>Long Term Retention</li><li>3-month window of opportunity</li></ul><p>The client's priorities appear to be reinforcement and long term retention with no sense of urgency to launch or complete the Qstream in a short time-frame since their product isn't set to launch for 3-6 months. These objectives align perfectly with the Classic Qstream settings.</p><p>The best recommendation would be to use 15 of the most critical and relevant questions for a Classic Qstream that would run for approximately 8 weeks.</p><p>NOTE: If the client feels strongly about using all 30 questions, our recommendation would be to split the 30 questions into two Classic Qstreams and run one after the other with a reasonable break (2-3 weeks) in between.</p><p>We've found that engagement and completion rates tend to slow down or drop off when a Qstream runs for more than 8 weeks. Therefore, we'd advise against a 30 question Classic Qstream in this case (even with adjusted repeat settings), as the duration would be approximately 12 weeks.</p><p>Pharma customers tend to tolerate / prefer longer-lasting Qstreams as opposed to customers in the Financial Services and Technology verticals.</p>",
+      "question_type": "single_correct",
+      "max_selected_choices": 1,
+      "choices": [
+        {
+          "id": 1,
+          "type": "choices",
+          "content": "Run a Classic Qstream with all 30 questions but adjust the repeat settings so that incorrectly answered questions repeat in 5 days and correctly answered questions repeat in 9 days.\n"
+        },
+        {
+          "id": 2,
+          "type": "choices",
+          "content": "Run a Classic Qstream with only 15 of the 30 questions using standard spacing settings.\n"
+        },
+        {
+          "id": 3,
+          "type": "choices",
+          "content": "Run a Turbo Qstream with all 30 questions to shorten the duration of the Qstream.\n"
+        },
+        {
+          "id": 4,
+          "type": "choices",
+          "content": "Run a Turbo Qstream with 15 questions since the data shows that our European client-base pefers shorter Qstreams.\n"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "remaining_pending_questions": 2,
+    "upcoming_question_date": "2019-08-12"
+  }
+}
